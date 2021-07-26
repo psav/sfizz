@@ -107,3 +107,4 @@ The sfizz library also uses in some subprojects:
 [SFZv2 Status Image]:    https://sfz.tools/assets/img/sfizz/badge_sfz2.svg
 [ARIA Status Image]:     https://sfz.tools/assets/img/sfizz/badge_aria.svg
 [Cakewalk Status Image]: https://sfz.tools/assets/img/sfizz/badge_cakewalk.svg
+
